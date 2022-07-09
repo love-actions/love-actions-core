@@ -4,7 +4,8 @@ inputs:
   build-list:
     description: |
       List of folder/file paths to be built
-      Looks like './assets/ ./logics/ ./main.lua ./config.lua'
+      Don't need global quotes, seperated by spaces
+      Looks like: ./assets/ ./logics/ ./main.lua ./config.lua
     required: false
     default: "./*"
   package-path:
