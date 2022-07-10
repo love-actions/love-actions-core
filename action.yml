@@ -1,5 +1,8 @@
 name: Love actions bare package
 description: "Bare package CI for LÖVE based games"
+branding:
+  icon: 'heart'
+  color: 'white'
 inputs:
   build-list:
     description: |
