@@ -9,6 +9,7 @@ Simple Github Action for packaging `.love` file of a [LÖVE](https://love2d.org/
 See related actions below:
 
 [Love actions for android](https://github.com/marketplace/actions/love-actions-for-android)
+[Love actions for testing](https://github.com/marketplace/actions/love-actions-for-testing)
 
 ## Quick example
 
