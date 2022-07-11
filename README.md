@@ -8,8 +8,12 @@ Simple Github Action for packaging `.love` file of a [LÖVE](https://love2d.org/
 
 See related actions below:
 
-[Love actions for android](https://github.com/marketplace/actions/love-actions-for-android)
 [Love actions for testing](https://github.com/marketplace/actions/love-actions-for-testing)
+[Love actions for android](https://github.com/marketplace/actions/love-actions-for-android)
+[Love actions for iOS](https://github.com/marketplace/actions/love-actions-for-ios)
+[Love actions for Linux](https://github.com/marketplace/actions/love-actions-for-linux)
+[Love actions for macOS](https://github.com/marketplace/actions/love-actions-for-macos)
+[Love actions for Windows](https://github.com/marketplace/actions/love-actions-for-windows)
 
 ## Quick example
 
