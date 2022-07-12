@@ -23,4 +23,4 @@ runs:
     - name: Pack love file
       shell: bash
       run: |
-        7z a -tzip ${{ inputs.package-path }} ${{ inputs.buildList }}
+        7z a -tzip ${{ inputs.package-path }} ${{ inputs.build-list }}
