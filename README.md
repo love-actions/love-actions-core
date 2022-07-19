@@ -36,5 +36,5 @@ See related actions below:
 
 | Name             | Required  | Default           | Description                                                |
 | :--------------- | --------- | ----------------- | ---------------------------------------------------------- |
-| `build-list`   | `false` | `"./*"`         | List of folder & file paths to be built. Separated by spaces |
-| `package-path` | `false` | `"./game.love"` | Path to the `.love` package file                         |
+| `build-list`     | `false`   | `"./*"`           | List of folder & file paths to be built. Separated by spaces |
+| `package-path`   | `false`   | `"./game.love"`   | Path to the `.love` package file                           |

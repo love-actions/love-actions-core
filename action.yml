@@ -6,7 +6,7 @@ branding:
 inputs:
   build-list:
     description: |
-      List of folder&file paths to be built
+      List of folder & file paths to be built
       Don't need global quotes, separated by spaces
       Looks like: ./assets/ ./logics/ ./main.lua ./config.lua
     required: false
