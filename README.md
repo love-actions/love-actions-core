@@ -26,7 +26,7 @@ See related actions below:
 
 ```yaml
 - name: Build bare love package
-  uses: 26F-Studio/love-actions-core@main
+  uses: love-action/love-actions-core@v1
   with:
     build-list: ./assets/ ./frameworks/ ./config.lua ./main.lua
     package-path: ./bare/my_game.love
@@ -34,7 +34,7 @@ See related actions below:
 
 ## All inputs
 
-| Name             | Required  | Default           | Description                                                |
-| :--------------- | --------- | ----------------- | ---------------------------------------------------------- |
-| `build-list`     | `false`   | `"./*"`           | List of folder & file paths to be built. Separated by spaces |
-| `package-path`   | `false`   | `"./game.love"`   | Path to the `.love` package file                           |
+| Name             | Required  | Default           | Description                                                  |
+| :--------------- | --------- | ----------------- | ------------------------------------------------------------ |
+| `build-list`   | `false` | `"./*"`         | List of folder & file paths to be built. Separated by spaces |
+| `package-path` | `false` | `"./game.love"` | Path to the `.love` package file                           |
