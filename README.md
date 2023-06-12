@@ -26,7 +26,7 @@ See related actions below:
 
 ```yaml
 - name: Build bare love package
-  uses: love-action/love-actions-core@v1
+  uses: love-actions/love-actions-core@v1
   with:
     build-list: ./assets/ ./frameworks/ ./config.lua ./main.lua
     package-path: ./bare/my_game.love
